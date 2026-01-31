@@ -1,5 +1,5 @@
 function imgchange1(){
-  document.getElementById('logo').src = './images/images.jpg';
+  document.getElementById('logo').src = './images/baseball-stadium.png';
 }
 
 function imgReset1(){
