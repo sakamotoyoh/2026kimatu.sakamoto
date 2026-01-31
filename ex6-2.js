@@ -1,11 +1,11 @@
 function changePhoto618() {
   document.getElementById("myPhoto2").src =
-    "image/WIN_20260128_21_29_25_Pro.jpg";
+    "images/200322_a_exam_07.png";
 
   setTimeout(returnPhoto618, 3000);
 }
 
 function returnPhoto618() {
   document.getElementById("myPhoto2").src =
-    "image/WIN_20260128_21_29_27_Pro.jpg";
+    "images/119371175.png";
 }
