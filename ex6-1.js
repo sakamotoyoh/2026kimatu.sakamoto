@@ -1,6 +1,6 @@
 function hyoji17(){
   //表示する文字
-var str17="一文字ずつ表示します。";
+var str17="野球と勉強。";
   //テキストボックスの文字数
 var cnt17=document.timer17.moji17.value.length;
 //文字が全部表示されているか確認
