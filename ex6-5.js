@@ -1,5 +1,5 @@
 function imgchange1(){
-  document.getElementById('logo').src = './image/download.jpg';
+  document.getElementById('logo').src = './images/12552.jpg';
 }
 
 function imgReset1(){
